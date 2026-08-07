@@ -84,9 +84,15 @@ minima:
 #     - title: Jekyll at X (formerly Twitter)
 #       icon: x-twitter
 #       url: "https://x.com/jekyllrb"
-  - title: guo-xiao-yan at GitHub
+  - title: guo-xiao-yan on GitHub
     icon: github
     url: "https://github.com/guo-xiao-yan"
+  - title: Tangent on 知乎
+    icon: zhihu
+    url: "https://www.zhihu.com/people/5610f12136c51067fc81c939f7386289"
+  - title: Gu0xy on Bilibili
+    icon: bilibili
+    url: "https://space.bilibili.com/10974739"
 #
 #   Hide syndication feed subscription link.
 #     RSS / Atom feed link is always rendered as the last item of social-links
