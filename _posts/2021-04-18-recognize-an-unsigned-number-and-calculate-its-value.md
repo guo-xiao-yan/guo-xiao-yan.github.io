@@ -7,6 +7,7 @@ categories: Compiler
 
 编译原理作业exercise-2 1.5
 ![](/assets/images/recognize-an-unsigned-number-and-calculate-its-value/cover.png)
+
 # 要求
 1.	在程序内采用二维数组保存识别无符号数的状态转换矩阵;
 2.	在识别无符号数的过程中，实现把输入的无符号数字符串转换成数值显示(不能使用类似atoi等函数实现);
@@ -34,6 +35,7 @@ categories: Compiler
 
 # 实现
 ## 代码
+
 ```c++
 #include <iostream>
 #include <string>
@@ -146,12 +148,16 @@ int main(int argc, const char * argv[])
     return 0;
 }
 ```
+
 ## 编译
+
 ```bash
 cd exercise-2
 g++-10 main.cpp -o main
 ```
+
 ## 运行
+
 ```bash
 ./main
 ```
