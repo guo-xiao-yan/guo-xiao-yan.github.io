@@ -5,9 +5,10 @@ date:   2022-08-30 23:58:54 +0800
 categories: Game Unity
 ---
 
+![我们的游戏](/assets/images/unity2d-2players-platforming-game-development/cover.png)
+
 # 声明
 我是球球块块工作室的陀螺菌。因具有盈利目的，游戏《球球块块历险记》源码与美术资源、[完整版开发日志](https://qiukuai.yuque.com/staff-hwlox9/efbrqq/zwb61e#wllc)不会公开。本文仅记录开发过程中遇到的一些问题的解决办法。
-![我们的游戏](/assets/images/unity2d-2players-platforming-game-development/cover.png)
 
 # 正篇
 ## 主角动作

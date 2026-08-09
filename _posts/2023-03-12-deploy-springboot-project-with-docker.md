@@ -8,8 +8,6 @@ categories: Docker SpringBoot
 [CMSC5702分布式的作业](https://github.com/codeworm111/MovieHeaven)，做了个电影评分网站。
 本文介绍工作最后一步：将项目打包成Docker镜像。
 
-<!-- more -->
-
 # Docker
 ## 干嘛的
 像GitHub一样有一个社区，里面有大家发布的各种镜像。你可以直接把它们下载下来运行，像虚拟机似的，不用自己一点一点配置环境，就很方便。
