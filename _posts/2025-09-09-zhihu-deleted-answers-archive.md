@@ -1114,3 +1114,31 @@ https://www.marxists.org/chinese/maozedong/1968/5-197.htm
 跟李路同理呗，通缉的是李录，关我李路什么事啊
 
 [2026-05-14 1阅读 0赞同 0收藏 0评论](https://www.zhihu.com/question/1953587790123086912/answer/2038250350868739629?share_code=APXXR5Cu5ZS9&utm_psn=2038746537128416316)
+
+---
+
+[为什么体制内至今仍不鼓励用人工智能？](https://www.zhihu.com/question/2042649810709239000?share_code=13DzySbMbbY06&utm_psn=2083362703138092197)
+
+建议去阅读A\最新的神文，控诉中国的政府雇员使用kimi时把数据转发给claude
+
+[2026-09-12 1阅读 0赞同 0收藏 0评论](https://www.zhihu.com/question/2042649810709239000/answer/2082194250578580965?share_code=12ZKgrjg0dABg&utm_psn=2083363006105367241)
+
+---
+
+[请问德国纳粹党的全称是什么？](https://www.zhihu.com/question/34851882?share_code=YlPhhT4A03Mo&utm_psn=2083363326504060782)
+
+你乎是这样的：
+
+[苏联为什么不算法西斯？](https://www.zhihu.com/question/1993311920334320201?share_code=11jyMMyfzRIOv&utm_psn=2083363416484455699)
+
+苏联是法西斯，纳粹是社会主义。
+
+[2026-09-14 3阅读 0赞同 0收藏 0评论](https://www.zhihu.com/question/34851882/answer/2082796051707306008?share_code=U1oJdnvxslF5&utm_psn=2083363724690302074)
+
+---
+
+[外交部回应姆巴佩道歉，「我们重视当事人作出的道歉」，姆巴佩事件的后续走向还有哪些可能性？](https://www.zhihu.com/question/2098798235125019683?share_code=9jJ7HsZ76tRD&utm_psn=2100029822688929751)
+
+拿破仑：“我与社会主义者辩论过，你骂我们是恺撒，不对，我们超过了恺撒一百倍。骂我们是恺撒独裁者，我们一贯承认，可惜的是，你们说的不够，往往要我们加以补充。”
+
+[2026-10-28 1阅读 0赞同 0收藏 0评论](https://www.zhihu.com/question/2098798235125019683/answer/2098877786584772850?share_code=abI0biSbSI9r&utm_psn=2100030017371742306)
