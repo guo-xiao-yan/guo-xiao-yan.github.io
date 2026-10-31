@@ -1121,7 +1121,6 @@ https://www.marxists.org/chinese/maozedong/1968/5-197.htm
 
 [2026-09-12 1阅读 0赞同 0收藏 0评论](https://www.zhihu.com/question/2042649810709239000/answer/2082194250578580965?share_code=12ZKgrjg0dABg&utm_psn=2083363006105367241)
 
-
 ---
 
 [请问德国纳粹党的全称是什么？](https://www.zhihu.com/question/34851882?share_code=YlPhhT4A03Mo&utm_psn=2083363326504060782)
@@ -1133,6 +1132,8 @@ https://www.marxists.org/chinese/maozedong/1968/5-197.htm
 苏联是法西斯，纳粹是社会主义。
 
 [2026-09-14 3阅读 0赞同 0收藏 0评论](https://www.zhihu.com/question/34851882/answer/2082796051707306008?share_code=U1oJdnvxslF5&utm_psn=2083363724690302074)
+
+---
 
 [外交部回应姆巴佩道歉，「我们重视当事人作出的道歉」，姆巴佩事件的后续走向还有哪些可能性？](https://www.zhihu.com/question/2098798235125019683?share_code=9jJ7HsZ76tRD&utm_psn=2100029822688929751)
 
