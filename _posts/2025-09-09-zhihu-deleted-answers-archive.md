@@ -1038,7 +1038,7 @@ https://www.marxists.org/chinese/maozedong/1968/5-197.htm
 
 ---
 
-[日本深海挖到稀土淤泥，技术难度与商业前景如何？](https://www.zhihu.com/question/2002264685140017931?share_code=fJS2IMj2xUxv&utm_psn=2004679150783469006)
+> [日本深海挖到稀土淤泥，技术难度与商业前景如何？](https://www.zhihu.com/question/2002264685140017931?share_code=fJS2IMj2xUxv&utm_psn=2004679150783469006)
 
 人有多大胆，稀土多大产。多快好省建设日本特色资本主义。争取五年超中十年赶美。
 
@@ -1052,7 +1052,7 @@ https://www.marxists.org/chinese/maozedong/1968/5-197.htm
 
 ---
 
-[外交部回应一名日本自卫队人员闯入中国驻日本大使馆，要求日方立即彻查，具体情况如何？](https://www.zhihu.com/question/2019814614259427027?share_code=xzyW2S63sQ1L&utm_psn=2020641716546348929)
+> [外交部回应一名日本自卫队人员闯入中国驻日本大使馆，要求日方立即彻查，具体情况如何？](https://www.zhihu.com/question/2019814614259427027?share_code=xzyW2S63sQ1L&utm_psn=2020641716546348929)
 
 照当年红小将差远了
 ![火烧英国代办处](/assets/images/zhihu-deleted-answers-archive/uk-consulate.PNG)
@@ -1061,7 +1061,7 @@ https://www.marxists.org/chinese/maozedong/1968/5-197.htm
 
 ---
 
-[如何看待张雪峰追悼会举行，万人长队送别？](https://www.zhihu.com/question/2021142684253856727?share_code=t1BfQ7iX16mR&utm_psn=2030770561043936552)
+> [如何看待张雪峰追悼会举行，万人长队送别？](https://www.zhihu.com/question/2021142684253856727?share_code=t1BfQ7iX16mR&utm_psn=2030770561043936552)
 
 **十里长街送雪峰**
 
@@ -1077,7 +1077,7 @@ https://www.marxists.org/chinese/maozedong/1968/5-197.htm
 
 ---
 
-[中国驻日本大使馆接连遭受到恐怖威胁，包括有人称在使馆内安装远距离遥控炸弹等，哪些信息值得关注？](https://www.zhihu.com/question/2028144905344623639?share_code=12LHfb896TYMY&utm_psn=2030771748493341788)
+> [中国驻日本大使馆接连遭受到恐怖威胁，包括有人称在使馆内安装远距离遥控炸弹等，哪些信息值得关注？](https://www.zhihu.com/question/2028144905344623639?share_code=12LHfb896TYMY&utm_psn=2030771748493341788)
 
 我们日本好棒棒，太讲武德啦，埋炸弹之前还发文预警。不像某流氓国家，直接先斩后奏连续5发精准制导连炸使馆3层楼，然后宣称是用了过期地图误炸。
 
@@ -1085,7 +1085,7 @@ https://www.marxists.org/chinese/maozedong/1968/5-197.htm
 
 ---
 
-[日本自卫队训练时坦克炮弹炸膛，已致 3 人死亡，哪些信息值得关注？](https://www.zhihu.com/question/2029868614002702113?share_code=Ew5YFCHzK2U8&utm_psn=2030772074243958548)
+> [日本自卫队训练时坦克炮弹炸膛，已致 3 人死亡，哪些信息值得关注？](https://www.zhihu.com/question/2029868614002702113?share_code=Ew5YFCHzK2U8&utm_psn=2030772074243958548)
 
 三个人年龄45、31、30，不得不佩服日本，这岁数还当兵呢，在中国这岁数干程序员都得下岗。
 
@@ -1093,7 +1093,7 @@ https://www.marxists.org/chinese/maozedong/1968/5-197.htm
 
 ---
 
-[新自由主义的六个代表人物是谁？](https://www.zhihu.com/question/515580426?share_code=1fKNdnSGBOfK4&utm_psn=2030772424417990004)
+> [新自由主义的六个代表人物是谁？](https://www.zhihu.com/question/515580426?share_code=1fKNdnSGBOfK4&utm_psn=2030772424417990004)
 
 ![新自六大导师](https://pbs.twimg.com/media/FthAtIaagAErmx1.jpg)
 
@@ -1101,7 +1101,7 @@ https://www.marxists.org/chinese/maozedong/1968/5-197.htm
 
 ---
 
-国安部披露：“境外组织资助‘躺平网红’，开展‘躺平洗脑’”，如何评价这篇评论？
+> 国安部披露：“境外组织资助‘躺平网红’，开展‘躺平洗脑’”，如何评价这篇评论？
 
 ![境外势力](/assets/images/zhihu-deleted-answers-archive/foreign-powers.JPG)
 
@@ -1109,7 +1109,7 @@ https://www.marxists.org/chinese/maozedong/1968/5-197.htm
 
 ---
 
-[为什么官方要把美国国务卿卢比奥的名字改成鲁比奥？](https://www.zhihu.com/question/1953587790123086912?share_code=qjlW8R0WPCJl&utm_psn=2038746411064373816)
+> [为什么官方要把美国国务卿卢比奥的名字改成鲁比奥？](https://www.zhihu.com/question/1953587790123086912?share_code=qjlW8R0WPCJl&utm_psn=2038746411064373816)
 
 跟李路同理呗，通缉的是李录，关我李路什么事啊
 
@@ -1117,7 +1117,7 @@ https://www.marxists.org/chinese/maozedong/1968/5-197.htm
 
 ---
 
-[为什么体制内至今仍不鼓励用人工智能？](https://www.zhihu.com/question/2042649810709239000?share_code=13DzySbMbbY06&utm_psn=2083362703138092197)
+> [为什么体制内至今仍不鼓励用人工智能？](https://www.zhihu.com/question/2042649810709239000?share_code=13DzySbMbbY06&utm_psn=2083362703138092197)
 
 建议去阅读A\最新的神文，控诉中国的政府雇员使用kimi时把数据转发给claude
 
@@ -1125,7 +1125,7 @@ https://www.marxists.org/chinese/maozedong/1968/5-197.htm
 
 ---
 
-[请问德国纳粹党的全称是什么？](https://www.zhihu.com/question/34851882?share_code=YlPhhT4A03Mo&utm_psn=2083363326504060782)
+> [请问德国纳粹党的全称是什么？](https://www.zhihu.com/question/34851882?share_code=YlPhhT4A03Mo&utm_psn=2083363326504060782)
 
 你乎是这样的：
 
@@ -1137,7 +1137,7 @@ https://www.marxists.org/chinese/maozedong/1968/5-197.htm
 
 ---
 
-[外交部回应姆巴佩道歉，「我们重视当事人作出的道歉」，姆巴佩事件的后续走向还有哪些可能性？](https://www.zhihu.com/question/2098798235125019683?share_code=9jJ7HsZ76tRD&utm_psn=2100029822688929751)
+> [外交部回应姆巴佩道歉，「我们重视当事人作出的道歉」，姆巴佩事件的后续走向还有哪些可能性？](https://www.zhihu.com/question/2098798235125019683?share_code=9jJ7HsZ76tRD&utm_psn=2100029822688929751)
 
 拿破仑：“我与社会主义者辩论过，你骂我们是恺撒，不对，我们超过了恺撒一百倍。骂我们是恺撒独裁者，我们一贯承认，可惜的是，你们说的不够，往往要我们加以补充。”
 
