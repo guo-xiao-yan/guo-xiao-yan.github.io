@@ -5,6 +5,11 @@ date:   2021-05-17 23:01:12 +0800
 categories: Contest ICPC NWPU
 ---
 
+![](/assets/images/2021-icpc-asia-yinchuan-regional-contest/team-nwpu.JPG)
+我：第一排右一
+Vindicator：第二排右二
+int-lyy：第二排右四
+
 # 比赛篇
 ## 热身赛
 ![](/assets/images/2021-icpc-asia-yinchuan-regional-contest/seat.JPG)
@@ -35,10 +40,6 @@ AC了
 打铁了😞
 耻辱退役
 
-![](/assets/images/2021-icpc-asia-yinchuan-regional-contest/team-nwpu.JPG)
-我：第一排右一
-Vindicator：第二排右二
-int-lyy：第二排右四
 # 干饭篇
 ## 早餐
 酒店的是真滴难吃
